@@ -18,12 +18,10 @@ Chú ý: giữa mỗi trang kết quả phải đợi để lấy tiếp.
 
 '''
 
-path = '/Users/laiminhduy/pyfml/exercises/beerspot_api.txt'
+
 
 with open(path) as f:
     api_key = f.readline()
     f.close
 
 print(api_key)
-
-api = 'AIzaSyCmlzFlcbG-b8QtfNBM7EBbBn_CmKvybhQ'
