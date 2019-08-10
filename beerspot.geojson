@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6296638,
+          10.8230989
+        ]
+      },
+      "properties": {
+        "address": "Ho Chi Minh City",
+        "name": "Ho Chi Minh City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7031687,
+          10.7898591
+        ]
+      },
+      "properties": {
+        "address": "No 8A, Nguyễn Bỉnh Khiêm, Đa Kao, Quận 1",
+        "name": "Somerset Ho Chi Minh City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6925246,
+          10.810487
+        ]
+      },
+      "properties": {
+        "address": "34A Tăng Bạt Hổ, Phường 11, Bình Thạnh",
+        "name": "HOTEL EDENROC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7106465,
+          10.796926
+        ]
+      },
+      "properties": {
+        "address": "158/2 Xô Viết Nghệ Tĩnh, Phường 21, Bình Thạnh",
+        "name": "F5 House"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7097131,
+          10.8056468
+        ]
+      },
+      "properties": {
+        "address": "26 Đinh Bộ Lĩnh, Phường 24, Bình Thạnh",
+        "name": "12E Apartment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7180746,
+          10.8064107
+        ]
+      },
+      "properties": {
+        "address": "168/67 Đường Nguyễn Gia Trí, Phường 25, Bình Thạnh",
+        "name": "Teresa's house"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7089129,
+          10.7886161
+        ]
+      },
+      "properties": {
+        "address": "80 Nguyễn Ngọc Phương, Phường 19, Bình Thạnh",
+        "name": "I@Home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707845,
+          10.798343
+        ]
+      },
+      "properties": {
+        "address": "236/29/15 Điện Biên Phủ, Phường 17 Quận Bình Thạnh, Phường 17, Bình Thạnh",
+        "name": "Tyna room for rent"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7018576,
+          10.7956499
+        ]
+      },
+      "properties": {
+        "address": "71 Điện Biên Phủ, Phường 15, Bình Thạnh",
+        "name": "Acb - Atm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6949975,
+          10.7918211
+        ]
+      },
+      "properties": {
+        "address": "26Bis Nguyễn Phi Khanh, Tân Định, Quận 1",
+        "name": "CROSS Home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.717785,
+          10.8062673
+        ]
+      },
+      "properties": {
+        "address": "26/14 Nguyen Binh Khiem Street, Da Kao Ward, District 1 168/67 D2 Street, Ward 25, Bình Thạnh District 80, 3 Yên Thế, Street, Tân Bình",
+        "name": "An Nhien Hotel Apartment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.700028,
+          10.797042
+        ]
+      },
+      "properties": {
+        "address": "12/5 Điện Biên Phủ, Phường 15, Bình Thạnh",
+        "name": "3AE APARTMENT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.711861,
+          10.803089
+        ]
+      },
+      "properties": {
+        "address": "356/21A Xô Viết Nghệ Tĩnh, Phường 25, Bình Thạnh",
+        "name": "TRANGIA APARMENT 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707851,
+          10.795689
+        ]
+      },
+      "properties": {
+        "address": "14 Nguyễn Cửu Vân, Phường 17, Bình Thạnh",
+        "name": "The Nest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.700617,
+          10.795322
+        ]
+      },
+      "properties": {
+        "address": "Tòa nhà, 57/29/10 Điện Biên Phủ, Phường 15, Bình Thạnh",
+        "name": "Bidhood Vietnam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71191,
+          10.79828
+        ]
+      },
+      "properties": {
+        "address": "220/36 Xô Viết Nghệ Tĩnh, Phường 21, Bình Thạnh",
+        "name": "Terrace Room Homestay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.693585,
+          10.80103
+        ]
+      },
+      "properties": {
+        "address": "37 Vạn Kiếp, Bình Thạnh",
+        "name": "Khách sạn Ngô Thiên Phúc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7148993,
+          10.8012702
+        ]
+      },
+      "properties": {
+        "address": "487 Điện Biên Phủ, Phường 25, Bình Thạnh",
+        "name": "Zahoo House No 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6960477,
+          10.7925295
+        ]
+      },
+      "properties": {
+        "address": "232 Đinh Tiên Hoàng, Quận 1, Thành Phố Hồ Chí Minh, Đa Kao, Quận 1",
+        "name": "Khách Sạn Tuấn Việt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6984026,
+          10.7878843
+        ]
+      },
+      "properties": {
+        "address": "Da Kao",
+        "name": "Da Kao"
+      }
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7142767,
+          10.8068949
+        ]
+      },
+      "properties": {
+        "address": "35/22 Đường D5, Phường 25, Bình Thạnh",
+        "name": "Karaoke United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7155319,
+          10.8028297
+        ]
+      },
+      "properties": {
+        "address": "41 Đường Nguyễn Gia Trí, Phường 25, Bình Thạnh",
+        "name": "South Viet Nam Tea Joint Stock Company"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.700506,
+          10.79195
+        ]
+      },
+      "properties": {
+        "address": "48/1 Nguyễn Bỉnh Khiêm, Đa Kao, Quận 1",
+        "name": "Cafe Restaurant СССР Saigon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.700065,
+          10.7912199
+        ]
+      },
+      "properties": {
+        "address": "18 Đường Nguyễn Văn Thủ, Đa Kao, Quận 1",
+        "name": "Psychol Dreamer Rooftop Ganja Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6988863,
+          10.7906444
+        ]
+      },
+      "properties": {
+        "address": "12 Phan Kế Bính, Đa Kao, Quận 1",
+        "name": "Opus Saigon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7151595,
+          10.8123811
+        ]
+      },
+      "properties": {
+        "address": "693 Xô Viết Nghệ Tĩnh, Phường 25, Bình Thạnh",
+        "name": "Karaoke ICOOL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6904119,
+          10.7972651
+        ]
+      },
+      "properties": {
+        "address": "230 Phan Xích Long, Phường 7, Phú Nhuận",
+        "name": "Karaoke Nnice Phan Xích Long"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.702919,
+          10.788752
+        ]
+      },
+      "properties": {
+        "address": "27/6 Nguyễn Bỉnh Khiêm, Đa Kao, Quận 1",
+        "name": "Rehab Station - Social Craft Beer Hub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7184391,
+          10.8070154
+        ]
+      },
+      "properties": {
+        "address": "122 Ung Văn Khiêm, Phường 25, Bình Thạnh",
+        "name": "Karaoke ICOOL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6991045,
+          10.7860416
+        ]
+      },
+      "properties": {
+        "address": "Hẻm 18 Bis Nguyễn Thị Minh Khai, Đa Kao, Quận 1",
+        "name": "Hoa Viên Brauhaus Minh Khai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7118741,
+          10.7902073
+        ]
+      },
+      "properties": {
+        "address": "89 Phạm Viết Chánh, Phường 19, Bình Thạnh",
+        "name": "Nong Trai Khoai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.711791,
+          10.790128
+        ]
+      },
+      "properties": {
+        "address": "80 Phạm Viết Chánh, Phường 19, Bình Thạnh",
+        "name": "Birdy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6961223,
+          10.7882015
+        ]
+      },
+      "properties": {
+        "address": "92 Mạc Đĩnh Chi, Đa Kao, Quận 1",
+        "name": "Karaoke ICOOL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6912308,
+          10.7913412
+        ]
+      },
+      "properties": {
+        "address": "28 Nguyễn Hữu Cầu, P, Quận 1",
+        "name": "81cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6872584,
+          10.7969809
+        ]
+      },
+      "properties": {
+        "address": "16, 64 Cù Lao, Phường 2, Phú Nhuận",
+        "name": "Gót Nhọn Café"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7022,
+          10.8025
+        ]
+      },
+      "properties": {
+        "address": "142A, Vũ Tùng, Phường 2, Quận Bình Thạnh, Thành Phố Hồ Chí Minh, Thành Phố Hồ Chí Minh, Phường 14, Bình Thạnh",
+        "name": "Cửa Hàng Trà - Cà Phê - Bánh - Sữa 142A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.703896,
+          10.8057079
+        ]
+      },
+      "properties": {
+        "address": "41 Phan Chu Trinh, Phường 24, Bình Thạnh",
+        "name": "Karaoke ICOOL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7017544,
+          10.8045267
+        ]
+      },
+      "properties": {
+        "address": "48 Phan Chu Trinh Street, Ward 24, Binh Thanh District, Phường 14, Bình Thạnh",
+        "name": "Karaoke Star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7015208,
+          10.8043983
+        ]
+      },
+      "properties": {
+        "address": "39 Phan Chu Trinh, Bình Thạnh",
+        "name": "Nhà Hàng Karaoke Vip"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7015389,
+          10.8047273
+        ]
+      },
+      "properties": {
+        "address": "60 Phan Chu Trinh, Phường 14, Bình Thạnh",
+        "name": "Napi food n drink"
+      }
+    }
+  ]
+}
